@@ -1,0 +1,7 @@
+Public class HelloWorld {
+public static void main(String[] args) {
+double Radius=7.5;
+double Perimeter= 2*Math.PI*Radius;
+System.out.print(&quot;Perimeteris: &quot; +Perimeter);
+double area=Math.PI*(Radius*Radius);
+System.out.print(&quot;Area is: &quot; +area);
